@@ -1,0 +1,47 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: center;
+ 	background: url("../images/bg.jpg");
+	background-size: cover;
+	color: #fff;
+}
+
+header {
+	background-color: #0062a1;
+	padding: 20px;
+}
+
+nav {
+	float: right;
+
+}
+
+a {
+	color: #002d4a;
+	text-decoration: none;
+}
+
+nav a {
+	color: #cccccc;
+	margin-right: 15px;
+}
+img {
+	float: left;
+	width: 200px;
+}
+
+
+h1 {
+	color: #fff;
+	margin: 20px 0;
+}
+
+
+p {
+	color: #fff;
+	font-size: 16px;
+}
