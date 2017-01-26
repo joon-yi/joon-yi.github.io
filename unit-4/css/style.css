@@ -81,3 +81,47 @@ p {
 */	color: #fff;
 	margin: .5em auto;
 }
+
+
+
+h1 {
+
+}
+
+
+p {
+	color: #fff;
+	font-size: 1em; /*1em = 16px*/
+}
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+}
+
+.support {
+	width: 30em;
+ 	margin: .5em auto;
+
+}
+
+#logo {
+	float: left;
+	width: 180px;
+	opacity: .5;
+	margin-top: -10px;
+
+}
+
+#slogan {
+	font-family: 'Pacifico', cursive;
+    font-style: italic;
+	font-size: 2.5em;
+/*	text-transform: uppercase;
+*/	color: #fff;
+	margin: .5em auto;
+}
